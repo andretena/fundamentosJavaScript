@@ -13,3 +13,5 @@ console.log(numero + numeroString);
 console.log(numero + Number(numeroString));
 
 //String
+let telefone = 12341234;
+console.log("O telefone é " + String(telefone)); 
